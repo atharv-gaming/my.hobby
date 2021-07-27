@@ -1,5 +1,7 @@
+body{
 margin: 0;
 padding-top: 800px;
+    text-align: center;
 }
 
 .profile {
@@ -72,4 +74,7 @@ p {
     padding-right: 9px;
     font-size: 25px;
 
+}
+.links:hover{
+    background-color: darkgoldenrod;
 }
